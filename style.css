@@ -1,28 +1,50 @@
 header{
-    height: 350px;
-    background-color: rgb(153, 83, 219);
-    color: aliceblue;
+    height: 800px;
+    background-color: rgb(202, 28, 28);
     text-align: center;
+    color: rgb(255, 255, 255);
     padding: 50px;
     font-size: 50px;
-    background-image: url(https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/store/games/mobile/overview/CODMPDP_Hero.png);
-    background-size:cover ;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbOEMT1r7CwgUy0qf2RJptHqqUn7ajk_B4Ig&s);
+    background-size: cover;
 }
+
 body{
     margin: 0px;
 }
+main {
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    font-size: 70px;
+}
+.container{
+    background-color: rgb(249, 213, 250);
+}
+.block1{
+    font-size: 60px;
+    padding: 40px;
+    text-align: left;
+}
+.block2 {
+    text-align: right;
+}
+.social{
+    text-align: center;
+    background-color: rgb(134, 134, 134);
+    font-size: 30px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.social img{
+ 
+    width: 100px;
+    padding-left: 10px;
     
-  
-
-.container {
-     background-color:aqua;
-    width: 80%;
 }
-
-.block4{
-height: 100px;
-background-color:brown;
-text-align: center;
-
-}
-     
